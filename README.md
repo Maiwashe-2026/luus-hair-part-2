@@ -31,9 +31,9 @@ The website created would have structured, functionality-driving pages aimed to 
 * **Background Styling**: Added a fixed background image with cover sizing and centering properties across the main layout.
 
 ### Layout & Component Upgrades
-* **Navigation Bar**: Upgraded `<nav>` with custom horizontal scrolling, hover transitions, and an animated underline effect (`::after`).
+* **Navigation Bar**: Upgraded <nav> with custom horizontal scrolling, hover transitions, and an animated underline effect (after).
 * **Hero Section & Animations**: 
-  * Created a custom keyframe drop-in animation (`fallIn`) for hero header text.
+  * Created a custom keyframe drop-in animation (fallIn) for hero header text.
   * Designed custom CSS-based floral crown decorations using radial gradients.
   * Positioned floating, styled polaroid-style image cards with subtle shadows and rotation angles.
 * **Interactive Cards & Grids**:
