@@ -48,6 +48,9 @@ The website created would have structured, functionality-driving pages aimed to 
 3.	Week 4: Testing, debugging, and refinement.
 4.	Week 5: Launch and marketing rollout.
 ## Referencing
-1.	https://www.canva.com/templates/EAGSXhl06RU/
-2. ttps://github.com/Maiwashe-2026/Lu-s-Hair	
-
+1. CSS Reference (2024). *Cascading style sheets*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 18 September 2026).
+2. GitHub (2025). *Basic writing and formatting syntax*. Available at: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax (Accessed: 18 September 2026).
+3. W3C (2023). *CSS background and borders module level 3*. World Wide Web Consortium. Available at:https://www.w3.org/TR/css-backgrounds-3/(Accessed: 18 September 2026).
+4. W3C (2021). *CSS grid layout module level 1*. World Wide Web Consortium. Available at: https://www.w3.org/TR/css-grid-1/(Accessed: 18 September 2026).
+5. W3C (2022)**. *CSS flexbox layout module*. World Wide Web Consortium. Available at: https://www.w3.org/TR/css-flexbox-1// (Accessed: 18 September 2026).
+6. MDN Web Docs (2025). *Responsive design*. Mozilla Contributors. Available at: https:https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design (Accessed: 18 September 2026).
