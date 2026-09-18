@@ -19,6 +19,11 @@ The success of Luu’s Hair’s website will be measured through a set of key pe
 ## Proposed Website Features and Functionality
 The website created would have structured, functionality-driving pages aimed to reflect luxury while catering for customer needs. Features: Home page The hero banner- to capture the customers in one-screen and showcase the core brand. Highlighted products- featuring top sellers. 
  About Us page - showcase the brand’s narrative, mission and values and introduce to the founder. Products page- showcase excellent photography for luxury products, prices, brief descriptions and filters such as length, lace-type and density to aid customers to make an informed purchase. Enquiry page - Form to customize an order from our website. Contact page- Showcase multiple shop details with an integrated map as well as forms for easy inquiry.
+ ## Timeline and Milestones
+1.	Week 1: Research, planning, and content sourcing.
+2.	Week 2–3: Website design and development.
+3.	Week 4: Testing, debugging, and refinement.
+4.	Week 5: Launch and marketing rollout.
  ## Change logs
  ### Styling & Theme Additions
 * **Google Fonts Integration**: Added custom typography using *Playfair Display* (for elegant headings) and *Montserrat* (for clean, readable body text).
@@ -42,11 +47,7 @@ The website created would have structured, functionality-driving pages aimed to 
 * **Mobile Adaptability**: 
   * Automatically switches multi-column grids and containers into vertical flex layouts for mobile screens.
   * Hides complex decorative elements (like floating hero images) on smaller viewports to prevent layout overlapping and ensure smooth mobile browsing.
-## Timeline and Milestones
-1.	Week 1: Research, planning, and content sourcing.
-2.	Week 2–3: Website design and development.
-3.	Week 4: Testing, debugging, and refinement.
-4.	Week 5: Launch and marketing rollout.
+
 ## Referencing
 1. CSS Reference (2024). *Cascading style sheets*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 18 September 2026).
 2. GitHub (2025). *Basic writing and formatting syntax*. Available at: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax (Accessed: 18 September 2026).
