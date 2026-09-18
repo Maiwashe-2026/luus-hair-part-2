@@ -27,7 +27,7 @@ The website created would have structured, functionality-driving pages aimed to 
  ## Change logs
  ### Styling & Theme Additions
 * **Google Fonts Integration**: Added custom typography using *Playfair Display* (for elegant headings) and *Montserrat* (for clean, readable body text).
-* **Color Palette System**: Implemented a cohesive pink and gold luxury theme (using soft pink background tones like `#f8d7e3`/`#f7c6d9` paired with luxury gold accents `#d4af37`).
+* **Color Palette System**: Implemented a cohesive pink and gold luxury theme (using soft pink background tones like #f8d7e3/#f7c6d9 paired with luxury gold accents #d4af37).
 * **Background Styling**: Added a fixed background image with cover sizing and centering properties across the main layout.
 
 ### Layout & Component Upgrades
@@ -37,13 +37,13 @@ The website created would have structured, functionality-driving pages aimed to 
   * Designed custom CSS-based floral crown decorations using radial gradients.
   * Positioned floating, styled polaroid-style image cards with subtle shadows and rotation angles.
 * **Interactive Cards & Grids**:
-  * Designed responsive CSS grid layouts for products and collection cards with smooth hover lift effects (`translateY`) and box-shadow highlights.
+  * Designed responsive CSS grid layouts for products and collection cards with smooth hover lift effects (translateY) and box-shadow highlights.
   * Built customized team profile sections with circular cropped images, borders, and hover states.
 * **Forms & Inputs**: Styled forms with consistent padding, rounded border-radius edges, gold focus states, and responsive sizing.
 * **Newsletter & Footer Sections**: Built custom flexbox layouts for the newsletter subscription box (complete with a styled CSS envelope icon) and social media icon links.
 
 ### Responsive Design (Mobile & Tablet)
-* **Media Queries**: Added breakpoints for screens under `992px` and `768px`.
+* **Media Queries**: Added breakpoints for screens under 992px and 768px.
 * **Mobile Adaptability**: 
   * Automatically switches multi-column grids and containers into vertical flex layouts for mobile screens.
   * Hides complex decorative elements (like floating hero images) on smaller viewports to prevent layout overlapping and ensure smooth mobile browsing.
